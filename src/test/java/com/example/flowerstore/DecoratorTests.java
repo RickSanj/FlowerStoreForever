@@ -72,4 +72,4 @@ public class DecoratorTests {
         assertEquals(87.0, basketDecorator.getPrice(), 0.001);
     }
 }
-}
+
